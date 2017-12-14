@@ -1,0 +1,1 @@
+This is a file opened directly from the command line, and from within a git directory.
